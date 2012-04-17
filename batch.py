@@ -1,6 +1,7 @@
 import os,sys
 #path="../AngelasXoomTest3/";
-path="./";
+#path="."/
+path="T:/SecondPass/wonchi/1/edu.mit.media.funf.bgcollector/";
 files = os.listdir(path);
 for i in files:
     f = path + i;

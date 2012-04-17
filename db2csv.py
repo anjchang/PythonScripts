@@ -25,7 +25,7 @@
 import os.path
 from optparse import OptionParser
 import sqlite3
-import simplejson as json
+import json as simplejson 
 import csv
 from itertools import product, groupby
 from collections import defaultdict
